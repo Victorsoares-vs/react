@@ -54,6 +54,8 @@ img {
   font-size: 21px;
   grid-template-columns: repeat(4, 1fr);
   gap: 16px;
+  background-color: rgba(192, 192, 192, 0);
+  
 }
 
 .categoria {
@@ -68,7 +70,7 @@ img {
 .categoria:hover,
 .categoria--selecionada {
   transition: background-color ease 200ms;
-  background-color: #170063;
+  background-color: #120700;
 }
 
 .cards {
