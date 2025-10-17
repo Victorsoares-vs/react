@@ -6,6 +6,8 @@
 
 body {
   font-family: "Montserrat", sans-serif;
+  background-image: linear-gradient(to bottom, white, rgb(226, 226, 226));
+  min-height: 100vh;
 }
 
 img {
@@ -84,7 +86,7 @@ img {
   grid-template-columns: 2fr 1fr;
   gap: 12px;
   align-items: center;
-  background-color: white;
+  background-color: rgb(255, 244, 165);
   border-radius: 16px;
   padding: 16px 25px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
