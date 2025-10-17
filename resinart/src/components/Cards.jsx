@@ -1,10 +1,10 @@
 import Card from './card'
+import { itemAgendas, itemArtigos, itemChaveiros, itemMoveis} from '../assets/catalogo' 
 import imgAgenda from "../assets/agendas/agenda-escura.jpg"
 import imgAgenda2 from "../assets/agendas/agenda-chaveiro-azul.jpg"
 import imgAgenda3 from "../assets/agendas/agenda-chaveiro-rosa.jpg"
 import imgAgenda4 from "../assets/agendas/agenda-kit.jpg"
 import imgAgenda5 from "../assets/agendas/agenda-caneta.jpg"
-
 
 const Cards = () => {
   return (
@@ -17,7 +17,7 @@ const Cards = () => {
 
       <Card
         titulo="Agenda Personalizada"
-        descricao="Agenda personalizada com nome, com capa em resina bicolor degradê com brilho."
+        descricao="Agenda personalizada com nome, com capa em resina bicolor degradê, com brilho."
         preco="R$ 50,00"
         imagem={imgAgenda2} />
 
