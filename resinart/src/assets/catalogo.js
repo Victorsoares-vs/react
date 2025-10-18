@@ -166,153 +166,153 @@ const artigo10 = {
 }
 
 const artigo11 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Kit Bandeja - Aqua",
+  preco: "R$ 150,00",
+  imagem: imgArtigo11,
+  descricao:"Kit com bandeja personalizada e 4 sous-plat em resina no padrão Aqua, azul e dourado."
   
 }
 
 const artigo12 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Kit Bandeja - Black",
+  preco: "R$ 150,00",
+  imagem: imgArtigo12,
+  descricao: "Kit com bandeja personalizada e 4 sous-plat em resina no padrão Black, preto e dourado."
   
 }
 
 const artigo13 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Kit Bandeja - Black 2",
+  preco: "R$ 150,00",
+  imagem: imgArtigo13,
+  descricao:"Kit com bandeja personalizada e 4 sous-plat em resina no padrão Black, preto e dourado, com brilho."
   
 }
 
 const artigo14 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Kit Bandeja - Dark",
+  preco: "R$ 150,00",
+  imagem: imgArtigo14,
+  descricao: "Kit com bandeja personalizada e 4 sous-plat em resina no padrão Dark, preto e prata."
   
 }
 
 const artigo15 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Eternização em Resina 2",
+  preco: "R$ 150,00",
+  imagem: imgArtigo15,
+  descricao: "Eternização personalizada para lembranças de família em resina transparente, com moldes em formatos diversos."
   
 }
 
 const artigo16 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Bandeja Moedas",
+  preco: "R$ 80,00",
+  imagem: imgArtigo16,
+  descricao:"Bandeja personalizada em resina com fundo transparente e inserção de moedas na composição."
   
 }
 
 const artigo17 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Conjunto Sousplat",
+  preco: "R$ 120,00",
+  imagem: imgArtigo17,
+  descricao:"Conjunto de 4 sousplats personalizados em resina no padrão vermelho com dourado."
   
 }
 
 const chaveiro1 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Chaveiro Circular 1",
+  preco: "R$ 35,00",
+  imagem: imgChaveiro,
+  descricao: "Chaveiro redondo personalizado em resina com fundo sólido e aplicação de detalhes com brilho dourado nas extremidades."
   
 }
 
 const chaveiro2 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Chaveiro Retangular 1",
+  preco: "R$ 35,00",
+  imagem: imgChaveiro2,
+  descricao: "Chaveiro retangular personalizado em resina com fundo sólido e aplicação de detalhes com brilho dourado nas extremidades."
   
 }
 
 const chaveiro3 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Chaveiro Retangular 2",
+  preco: "R$ 35,00",
+  imagem: imgChaveiro3,
+  descricao: "Chaveiro retangular personalizado em resina com fundo sólido e aplicação de detalhes com brilho prateado nas extremidades."
   
 }
 
 const chaveiro4 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Chaveiro Esmalte 1",
+  preco: "R$ 35,00",
+  imagem: imgChaveiro4,
+  descricao: "Chaveiro em formato de esmalte personalizado em resina com fundo sólido e aplicação de detalhes rosa com brilho no corpo, com Tassel."
   
 }
 
 const chaveiro5 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Chaveiro Esmalte 2",
+  preco: "R$ 35,00",
+  imagem: imgChaveiro5,
+  descricao: "Chaveiro em formato de esmalte personalizado em resina colorida com fundo sólido e aplicação de detalhes no corpo, com Tassel."
   
 }
 
 const chaveiro6 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Chaveiro Esmalte 3",
+  preco: "R$ 30,00",
+  imagem: imgChaveiro6,
+  descricao: "Chaveiro em formato de esmalte personalizado em resina colorida com fundo sólido e aplicação de detalhes no corpo."
   
 }
 
 const chaveiro7 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Chaveiros Diversos 1",
+  preco: "R$ 30,00",
+  imagem: imgChaveiro7,
+  descricao: "Chaveiros diversos personalizados em resina em vários formatos e cores."
   
 }
 
 const chaveiro8 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Chaveiros Diversos 2",
+  preco: "R$ 35,00",
+  imagem: imgChaveiro8,
+  descricao: "Chaveiro quadrado personalizado em resina com fundo misto (sólido e translúcido) e aplicação de detalhes dourados na parte transparente."
   
 }
 
 const chaveiro9 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Chaveiro Academia",
+  preco: "R$ 40,00",
+  imagem: imgChaveiro9,
+  descricao: "Chaveiro personalizado em resina no formato de halteres, com fundo sólido e aplicação de detalhes em cores diversas."
   
 }
 
 const chaveiro10 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Chaveiro Cruz",
+  preco: "R$ 40,00",
+  imagem: imgChaveiro10,
+  descricao: "Chaveiro personalizado em resina no formato de cruz e medalha, com fundo translúcido e aplicação de detalhes em vermelho."
   
 }
 
 const chaveiro11 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Chaveiro Dentista",
+  preco: "R$ 35,00",
+  imagem: imgChaveiro11,
+  descricao: "Chaveiro personalizado em resina no formato de dente, com fundo sólido branco e aplicação de detalhes em prata."
   
 }
 
 const chaveiro12 = {
   nome: "",
   preco: "",
-  imagem: "",
+  imagem: imgChaveiro12,
   descricao:
   
 }
