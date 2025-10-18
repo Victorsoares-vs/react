@@ -310,92 +310,86 @@ const chaveiro11 = {
 }
 
 const chaveiro12 = {
-  nome: "",
-  preco: "",
+  nome: "Chaveiro Letra",
+  preco: "R$ 35,00",
   imagem: imgChaveiro12,
-  descricao:
+  descricao: "Chaveiro personalizado em resina no formato de letra inicial, com fundo sólido e aplicação de detalhes em cores diversas."
   
 }
 
 const chaveiro13 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Chaveiro Médico",
+  preco: "R$ 35,00",
+  imagem: imgChaveiro13,
+  descricao: "Chaveiro personalizado em resina no formato de jaleco médico, com fundo sólido branco e aplicação de detalhes coloridos."
   
 }
 
 const chaveiro14 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Chaveiro Pezinho",
+  preco: "R$ 35,00",
+  imagem: imgChaveiro14,
+  descricao: "Chaveiro pezinho personalizado em resina com fundo translúcido, com aplicação de detalhes em brilho."
   
 }
 
 const chaveiro15 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Chaveiro Pezinho Menino",
+  preco: "R$ 35,00",
+  imagem: imgChaveiro15,
+  descricao: "Chaveiro pezinho personalizado em resina com fundo sólido branco, com aplicação de detalhes em brilho na cor azul."
   
 }
 
 const chaveiro16 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Chaveiro Pezinho Menina",
+  preco: "R$ 35,00",
+  imagem: imgChaveiro16,
+  descricao: "Chaveiro pezinho personalizado em resina com fundo sólido branco, com aplicação de detalhes em brilho na cor rosa."
   
 }
 
 const chaveiro17 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Chaveiros diversos 3",
+  preco: "R$ 35,00",
+  imagem: imgChaveiro17,
+  descricao: "Chaveiros personalizados com temas diversos em formatos variados, em fundo translúcido e aplicação de detalhes em brilho com várias cores."
   
 }
 
 const movel1 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Mesa Água 1",
+  preco: "R$ 800,00", 
+  imagem: imgMoveis,
+  descricao: "Mesa de centro personalizada em resina no padrão Água, com base em madeira e tampo em resina azul e dourado."
   
 }
 
 const movel2 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Conjunto Mesa Água 2",
+  preco: "R$ 920,00",
+  imagem: imgMoveis2,
+  descricao: "Conjunto de mesa de centro e duas mesas laterais personalizadas em resina no padrão Água, com base em madeira e tampo em resina azul e dourado."
   
 }
 
 const movel3 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Mesa Água 3",
+  preco: " R$ 850,00",
+  imagem: imgMoveis3,
+  descricao: "Mesas de centro personalizadas em resina no padrão Água, com base em madeira e tampo em resina azul, com detalhes em relevo."
   
 }
 
 const movel4 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
+  nome: "Mesa Cristal",
+  preco: "R$ 650,00",
+  imagem: imgMoveis4,
+  descricao: "Mesa lateral personalizada em resina no padrão Cristal, com base em madeira e tampo em resina transparente com detalhes de flores em eternização."
   
 }
 
-const movel5 = {
-  nome: "",
-  preco: "",
-  imagem: "",
-  descricao:
-  
-}
+
 
 export const itemAgendas = [
   agenda1,
