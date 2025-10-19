@@ -403,6 +403,9 @@ export const itemArtigos = [
   artigo1, artigo2, artigo3, artigo4, artigo5, artigo6, artigo7, artigo8, artigo9, artigo10
 ]
 
-export const itemChaveiros =[]
+export const itemChaveiros =[
+  chaveiro1, chaveiro2, chaveiro3, chaveiro4, chaveiro5, chaveiro6, chaveiro7, chaveiro8, chaveiro9, chaveiro10, chaveiro11, chaveiro12, chaveiro13, chaveiro14, chaveiro15, chaveiro16, chaveiro17
+]
 
-export const itemMoveis = []
+export const itemMoveis = [movel1, movel2, movel3, movel4]
+

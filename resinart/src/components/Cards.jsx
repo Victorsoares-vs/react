@@ -1,5 +1,5 @@
 import Card from './card'
-import { itemAgendas, itemArtigos, itemChaveiros, itemMoveis} from '../assets/catalogo' 
+import {itemAgendas, itemArtigos, itemChaveiros, itemMoveis} from "../assets/catalogo"
 import imgAgenda from "../assets/agendas/agenda-escura.jpg"
 import imgAgenda2 from "../assets/agendas/agenda-chaveiro-azul.jpg"
 import imgAgenda3 from "../assets/agendas/agenda-chaveiro-rosa.jpg"
@@ -7,6 +7,8 @@ import imgAgenda4 from "../assets/agendas/agenda-kit.jpg"
 import imgAgenda5 from "../assets/agendas/agenda-caneta.jpg"
 
 const Cards = () => {
+  const itensCategoria = [itemAgendas, itemArtigos, itemChaveiros, itemMoveis ]
+
   return (
     <div className="cards">
       <Card
