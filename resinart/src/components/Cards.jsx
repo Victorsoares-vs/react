@@ -8,7 +8,7 @@ import imgAgenda5 from "../assets/agendas/agenda-caneta.jpg"
 
 const Cards = () => {
   const itensCategoria = [itemAgendas, itemArtigos, itemChaveiros, itemMoveis ]
-
+          
   return (
     <div className="cards">
       <Card
