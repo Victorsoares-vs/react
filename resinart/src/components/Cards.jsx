@@ -1,9 +1,9 @@
 import Card from './card'
 import {itemAgendas, itemArtigos, itemChaveiros, itemMoveis} from "../assets/catalogo"
 
-const Cards = () => {
+const Cards = ({numCategoriaSelecionada}) => {
   const itensCategoria = [itemAgendas, itemArtigos, itemChaveiros, itemMoveis ]
-  const categoriaSelecionada = itensCategoria[2] 
+  const categoriaSelecionada = itensCategoria[numCategoriaSelecionada] 
 
   return (
     <div className="cards">

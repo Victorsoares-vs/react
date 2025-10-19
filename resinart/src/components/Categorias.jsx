@@ -1,30 +1,26 @@
-import React, {useState} from "react"
-
-const Categorias = () => {
-  const [numCategoriaSelecionada, setNumCategoriaSelecionada] = useState(0)
-
-  setNumCategoriaSelecionada(1)
+const Categorias = ({numCategoriaSelecionada, setNumCategoriaSelecionada}) => {
+  
   return (
     <div className= "categorias">
-      <p className= {"categoria" + numCategoriaSelecionada === 0 
+      <p className= {"categoria" + (numCategoriaSelecionada === 0 
         ? " categoria--selecionada"
-        : ""
+        : "")
       } 
       onClick={() => setNumCategoriaSelecionada(0)}>Agendas</p>
 
-      <p className= {"categoria" + numCategoriaSelecionada === 1 
+      <p className= {"categoria" + (numCategoriaSelecionada === 1 
         ? " categoria--selecionada"
-        : ""
+        : "")
       } onClick={() => setNumCategoriaSelecionada(1)}>Artigos</p>
 
-      <p className= {"categoria" + numCategoriaSelecionada === 2 
+      <p className= {"categoria" + (numCategoriaSelecionada === 2 
         ? " categoria--selecionada"
-        : ""
+        : "")
       } onClick={() => setNumCategoriaSelecionada(2)}>Chaveiros</p>
 
-      <p className= {"categoria" + numCategoriaSelecionada === 3 
+      <p className= {"categoria" + (numCategoriaSelecionada === 3 
         ? " categoria--selecionada"
-        : ""
+        : "")
       } onClick={() => setNumCategoriaSelecionada(3)}>Móveis</p>
     </div>
   )
