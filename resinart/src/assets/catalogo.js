@@ -350,7 +350,7 @@ const chaveiro16 = {
 }
 
 const chaveiro17 = {
-  nome: "Chaveiros diversos 3",
+  nome: "Chaveiros Diversos 3",
   preco: "R$ 35,00",
   imagem: imgChaveiro17,
   descricao: "Chaveiros personalizados com temas diversos em formatos variados, em fundo translúcido e aplicação de detalhes em brilho com várias cores."
