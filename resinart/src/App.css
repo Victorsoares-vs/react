@@ -6,13 +6,14 @@
 
 body {
   font-family: "Montserrat", sans-serif;
-  background-image: linear-gradient(to bottom, white, rgb(226, 226, 226));
+  background-image: linear-gradient(to bottom, white, rgba(130, 98, 83, 0.43), #894d2da2);
   min-height: 100vh;
 }
 
 img {
   display: block;
   max-width: 100%;
+  
 }
 
 #root {
@@ -106,6 +107,7 @@ img {
 .card__img {
   border-radius: 12px;
   overflow: hidden;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.605);
 }
 
 @media (max-width: 900px) {
