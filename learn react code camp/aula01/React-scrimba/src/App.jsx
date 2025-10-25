@@ -4,11 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 function App() {
-  const initial = []
 
-  return (
-    initial
-  )
 }
 
 export default App
