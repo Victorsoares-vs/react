@@ -7,3 +7,42 @@
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
 }
+
+
+header{
+  text-align: right;
+
+}
+
+header > .logo {
+  position: absolute;
+  margin-top: 10px;
+  left: 10px;
+  width: 55px;
+  
+  
+}
+
+.ul-el {
+  list-style: none;
+  display: inline-flex;
+  text-align: right;
+    
+}
+
+.li-el{
+  padding-right: 40px;
+  text-align: right;
+  font-size: 1.1em;
+  
+  
+
+
+
+}
+
+.nav-bar {
+  display: inline;
+
+
+}
